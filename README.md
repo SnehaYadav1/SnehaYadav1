@@ -15,7 +15,7 @@
 
 ![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=SnehaYadav1&show_icons=true&hide_border=true)
 
-<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaYadav1&count_private=true&line_height=52">
+<img width="37.2%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SnehaYadav1&line_height=52">
 
 
 
