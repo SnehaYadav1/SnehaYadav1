@@ -11,7 +11,7 @@
 <br />
 
 ### About Me 🚀
-🎓 I’m a Software Developer
+🎓 Data Science and ML Enthusiast
 
 ![Sneha's github stats](https://github-readme-stats.vercel.app/api?username=SnehaYadav1&show_icons=true&hide_border=true)
 
